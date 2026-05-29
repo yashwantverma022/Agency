@@ -11,7 +11,7 @@ const Contact_us = () => {
                 <p className=' font-light'>Ready to grow your brand? Let’s connect and build something exceptional together.</p>
             </div>
             <div className='w-[70%]   '>
-                <form action="" className='flex flex-col justify-center w-[100%] gap-6 '>
+                <form action="" className='flex mt-10 flex-col justify-center w-[100%] gap-6 '>
                     <div className='w-[100%] flex flex-row gap-8'>
                         <div className='ml-4 w-[45%]'>
                             <p className='font-semibold text-lg'>Your Name</p>
@@ -32,7 +32,7 @@ const Contact_us = () => {
 
                     <div className=' pl-4'>
                         <p className='text-lg font-semibold'>Message</p>
-                        <input type="text" placeholder='enter your message' className='border border-2 rounded-2xl w-[90%] h-[30vh] border-gray-400' />
+                        <input type="text" placeholder='enter your message' className='p-2 border-2 rounded-2xl w-[95%] h-[30vh] border-gray-400' />
                     </div>
 
                     <div className='rounded-3xl bg-purple-800 flex flex-row gap-2 justify-center items-center text-white font-bold text-lg w-[20%] ml-4 px-4 py-2.5 border-2 border-gray-500'>

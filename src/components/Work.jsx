@@ -6,7 +6,7 @@ import img3 from '../assets/work_fitness_app.png'
 const Work = () => {
   return (
     <div id="work" className=' w-11/12  mx-auto mt-14 flex flex-col gap-4 items-center'>
-        <div className='text-3xl font-semibold'>Our latest work</div>
+        <div className='text-4xl font-bold'>Our latest work</div>
         <div className='w-[33vw] text-center font-light'>Browse our portfolio of innovative digital projects that showcase creativity, performance, and results</div>
         
         <div className=' flex gap-6 mt-4 justify-center'>
